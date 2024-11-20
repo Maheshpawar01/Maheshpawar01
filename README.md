@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahesh Pawar</h1>
 
-<h3 align="center">A passionate Full stack web developer from India. </h3>
+<h3 align="center">A passionate Full stack web developer from India. Proficient in full-Stack web development and problem solving. Core stack includes javascript, React.js, MongoDB, Express.js, Node.js Also.Familiar with sql. </h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
