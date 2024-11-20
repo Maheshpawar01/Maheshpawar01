@@ -12,6 +12,10 @@
 - 🔭 I’m looking to contribute to **Open Source**
   
 - 🌱 I’m currently exploring **Web development**
+- - 👨‍💻 Know me more <a href="https://mahesh-portfolio-flame.vercel.app/" style="text-decoration: none;">Portfolio</a>
+- 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=maheshp5447@gmail.com" style="text-decoration: none;">Email</a>
+
+
   
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
